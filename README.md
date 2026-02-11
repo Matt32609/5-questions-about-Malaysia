@@ -18,6 +18,6 @@ To run the program:
 
 Run it in the terminal using:
 
-* python3 (filename) .py
+* python3 (filename).py
 * ./(filename).py 
 
