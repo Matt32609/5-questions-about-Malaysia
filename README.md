@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------
 Hello there 👋
 
-This repository was created just for fun using what I learned during the 42KL Discovery Piscine (February 2026).
+This repository was created just for fun using what I learnt during the 42KL Discovery Piscine (February 2026).
 
 This quiz will ask you general questions about Malaysia.
 -------------------------------------------------------------------------------------------------------
@@ -28,11 +28,11 @@ For questions with multiple answers , I used the "in" operator. This makes the c
 
 4. Functional Organization
 
-I organized each quiz question into its own function. This keeps the code clean and modular, making it much easier to read and debug compared to one long block of text.
+I organized each quiz question into its own function. This keeps the code clean , making it much easier to read and debug compared to one long block of text.
 
 5. Process Control
    
-I used the exit() function to create a "Hard Stop" for the quiz. This mimics the strict logic often found in C programming, where the program terminates immediately if a specific condition isn't met.
+I used the exit() function to create a "Hard Stop" for the quiz. This will make the program terminates immediately if a specific condition isn't met.
 
 -----------------------------------------------------------------------------------------------------------------------
 I hope you enjoy this mini project 🙂
