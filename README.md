@@ -13,10 +13,10 @@ Concepts Used:
 * Functions
 * AND operations
 --------------------------------------------------------------------------------------------------------
-What I learned throughout this project:
+What I learnt throughout this project:
 1. Input Sanitization
 
-I learned how to use .strip() and .lower() to clean up user input. This ensures the quiz doesn't fail just because a user added an extra space or used capital letters.
+I learnt how to use .strip() and .lower() to clean up user input. This ensures the quiz doesn't fail just because a user added an extra space or used capital letters.
 
 2. Nested Conditional Logic
 
