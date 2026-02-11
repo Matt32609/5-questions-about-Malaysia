@@ -35,6 +35,7 @@ I organized each quiz question into its own function. This keeps the code clean 
 I used the exit() function to create a "Hard Stop" for the quiz. This will make the program terminates immediately if a specific condition isn't met.
 
 6. Game loops
+7. 
 I utilized while loops to manage the program's lifecycle, creating a persistent game state that keeps the quiz running and handles repetitive user input until specific exit conditions are met."
 
 -----------------------------------------------------------------------------------------------------------------------
