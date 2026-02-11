@@ -59,7 +59,7 @@ def question_3():
 question_3()
 
 def question_4():
-    answer = input("Since 2013 , the minimum requirement to get a SPM certificate is passing two mandatory subjects . Name the two subjects fully.").strip().lower()
+    answer = input("Since 2013 , the minimum requirement to get a SPM (Malaysia high school exit examination) certificate is to pass two mandatory subjects . Name the two subjects fully.").strip().lower()
     print(answer)
 
     if "bahasa melayu" in answer and "sejarah" in answer:
