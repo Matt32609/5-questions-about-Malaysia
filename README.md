@@ -12,6 +12,7 @@ Concepts Used:
 * If–else statements
 * Functions
 * AND operations
+* while loops
 --------------------------------------------------------------------------------------------------------
 What I learnt throughout this project:
 1. Input Sanitization
