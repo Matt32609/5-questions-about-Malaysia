@@ -78,7 +78,7 @@ def question_4():
 question_4()
 
 def question_5():
-    answer = input("In Kuala Lumpur , there are 2 aerodrome airports that are active . List the districts located for the 2 airports without including the word district in your answer").strip().lower()
+    answer = input("In the Klang Valley , there are 2 aerodrome airports that are active . List the districts located for the 2 airports without including the word district in your answer").strip().lower()
     print(answer)
 
     if "sepang" in answer and "petaling" in answer:
