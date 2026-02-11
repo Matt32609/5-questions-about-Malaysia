@@ -1,5 +1,4 @@
 5 questions about Malaysia 
-
 (mini project as a beginner after the Python piscine)
 ---------------------------------------------------------------------------------------------------
 Hello there 👋
