@@ -15,11 +15,10 @@ Concepts Used:
 * while loops
 --------------------------------------------------------------------------------------------------------
 What I learnt throughout this project:
-1. Input Sanitization
-
+1. Input handling
 I learnt how to use .strip() and .lower() to clean up user input. This ensures the quiz doesn't fail just because a user added an extra space or used capital letters.
 
-2. Nested Conditional Logic
+2. Multi-level logic
 
 I built a "Second Chance" system using nested if-else statements. This allows the program to branch out: if the first answer is wrong, it triggers a second prompt before deciding whether to end the game.
 
@@ -34,6 +33,9 @@ I organized each quiz question into its own function. This keeps the code clean 
 5. Process Control
    
 I used the exit() function to create a "Hard Stop" for the quiz. This will make the program terminates immediately if a specific condition isn't met.
+
+6. Game loops
+I utilized while loops to manage the program's lifecycle, creating a persistent game state that keeps the quiz running and handles repetitive user input until specific exit conditions are met."
 
 -----------------------------------------------------------------------------------------------------------------------
 I hope you enjoy this mini project 🙂
