@@ -107,6 +107,7 @@ question_5()
 def end_sequence():
     print("Congrats, you really have the knowledge to do this!")
     redo = input("Do you wish to try again? ").strip().lower()
+    
     if redo == "yes":
         print("Starting over from Question 1...")
         return True 
