@@ -18,8 +18,8 @@ To run the program:
 
 Run it in the terminal using:
 
-* python3 (filename).py
-* ./(filename).py 
+* python3 5\ questions\ about\ Malaysia.py
+* ./5\ questions\ about\ Malaysia.py 
 
 Example questions:
 - What is the capital city of Malaysia?
