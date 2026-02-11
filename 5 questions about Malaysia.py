@@ -66,7 +66,7 @@ def question_4():
          print("Good job!")
     else:
             print("Aww , it's wrong :(")
-            answer = input("Try again :")
+            answer = input("Try again :").strip().lower()
             print(answer)
 
             if "bahasa melayu" in answer and "sejarah" in answer:
@@ -85,7 +85,7 @@ def question_5():
         print("Good job!")
     else:
         print("Aww , try again :(")
-        answer = input("Try again :")
+        answer = input("Try again :").strip().lower()
         print(answer)
 
         if "sepang" in answer and "petaling" in answer:
