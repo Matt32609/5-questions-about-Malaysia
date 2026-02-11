@@ -16,9 +16,10 @@ Concepts Used:
 --------------------------------------------------------------------------------------------------------
 What I learnt throughout this project:
 1. Input handling
+   
 I learnt how to use .strip() and .lower() to clean up user input. This ensures the quiz doesn't fail just because a user added an extra space or used capital letters.
 
-2. Multi-level logic
+3. Multi-level logic
 
 I built a "Second Chance" system using nested if-else statements. This allows the program to branch out: if the first answer is wrong, it triggers a second prompt before deciding whether to end the game.
 
