@@ -32,6 +32,7 @@ I organized each quiz question into its own function. This keeps the code clean 
 5. Process Control
    
 I used the exit() function to create a "Hard Stop" for the quiz. This mimics the strict logic often found in C programming, where the program terminates immediately if a specific condition isn't met.
+
 -----------------------------------------------------------------------------------------------------------------------
 I hope you enjoy this mini project 🙂
 
