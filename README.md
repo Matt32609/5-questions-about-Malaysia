@@ -46,8 +46,8 @@ To run the program:
 
 Run it in the terminal using:
 
-* python3 5\ questions\ about\ Malaysia.py
-* ./5\ questions\ about\ Malaysia.py 
+* python3 5_questions_about_Malaysia.py
+* ./5_questions_about_Malaysia.py
 
 Example questions:
 - What is the capital city of Malaysia?
