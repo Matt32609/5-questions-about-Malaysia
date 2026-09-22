@@ -13,41 +13,23 @@ Concepts Used:
 * Functions
 * AND operations
 * while loops
+* User input
+* Concept of strings
 --------------------------------------------------------------------------------------------------------
-What I learnt throughout this project:
-1. Input handling
-   
-I learnt how to use .strip() and .lower() to clean up user input. This ensures the quiz doesn't fail just because a user added an extra space or used capital letters.
-
-3. Multi-level logic
-
-I built a "Second Chance" system using nested if-else statements. This allows the program to branch out: if the first answer is wrong, it triggers a second prompt before deciding whether to end the game.
-
-3. Membership Operators (in)
- 
-For questions with multiple answers , I used the "in" operator. This makes the code smarter because it checks if the keywords exist in the sentence, regardless of the order the user types them in.
-
-4. Functional Organization
-
-I organized each quiz question into its own function. This keeps the code clean , making it much easier to read and debug compared to one long block of text.
-
-5. Process Control
-   
-I used the exit() function to create a "Hard Stop" for the quiz. This will make the program terminates immediately if a specific condition isn't met.
-
-6. Game loops
-
-I utilized while loops to manage the program's lifecycle, creating a persistent game state that keeps the quiz running and handles repetitive user input until specific exit conditions are met."
-
+This project consists of Python and also the C code version for comparison to enhance my knowledge of programming , it allows me to map out the same concepts but in different syntax and approaches.
 -----------------------------------------------------------------------------------------------------------------------
 I hope you enjoy this mini project 🙂
 
 To run the program:
 
 Run it in the terminal using:
-
+PYTHON:
 * python3 5_questions_about_Malaysia.py
 * ./5_questions_about_Malaysia.py
+
+C:
+* gcc 5_questions_about_malaysia.c -o 5_questions_about_malaysia
+* ./5_questions_about_malaysia.exe
 
 Example questions:
 - What is the capital city of Malaysia?
