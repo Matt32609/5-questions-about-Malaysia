@@ -25,6 +25,7 @@ To run the program:
 --------------------
 
 Run it in the terminal using:
+
 PYTHON:
 * python3 5_questions_about_Malaysia.py
 * ./5_questions_about_Malaysia.py
